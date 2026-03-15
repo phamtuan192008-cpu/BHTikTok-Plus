@@ -1,4 +1,4 @@
-# BHTikTok Plus minhtuanokk
+  # BHTikTok Plus minhtuanokk
 An awesome tweak for TikTok!
 
 <p align="center">
